@@ -72,4 +72,4 @@ Uber-Trip-Analysis/
 - Excel (source data)
 
 ## Author
-**Monsur Fuad** – [GitHub](https://github.com/MonsurFuad)
+**Monsur Fuad Khan** – [Portfolio](monsurfuad.github.io) – [LinkedIn]([monsurfuad.github.io](https://www.linkedin.com/in/monsur-fuad-khan-7b4416252))
