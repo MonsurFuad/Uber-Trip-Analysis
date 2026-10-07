@@ -5,7 +5,7 @@ An interactive Power BI report that analyses Uber trip data: how many bookings a
 ## Dashboard Preview
 
 ### Overview Analysis
-![Overview Analysis](Dashboard/overview.png)
+![Overview Analysis](Dashboard/Overview Analysis.png)
 
 ### Time Analysis
 ![Time Analysis](Dashboard/time-analysis.png)
