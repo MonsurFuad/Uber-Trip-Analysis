@@ -2,16 +2,6 @@
 
 An interactive Power BI report that analyses Uber trip data: how many bookings are made, how much revenue they generate, where and when trips happen, and which vehicles and payment methods customers prefer.
 
-## Dashboard Preview
-
-### Overview Analysis
-[![Overview Analysis](Dashboard/Overview%20Analysis.png)](https://github.com/MonsurFuad/Uber-Trip-Analysis/blob/main/Dashboard/Overview%20Analysis)
-
-### Time Analysis
-![Time Analysis](Dashboard/Time%20Analysis.png)
-
-### Details
-![Details](Dashboard/Details.png)
 
 ## Project Structure
 
